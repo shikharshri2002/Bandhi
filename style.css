@@ -321,6 +321,17 @@ Staff section
     }
 }
 
+@media screen and(min-width:768px) and (max-width:1330px){
+    .img-box img{
+        width:160px;
+    }
+}
+
+@media screen and(min-width:1340px){
+    .img-box img{
+        width:300px;
+    }
+}
 
 /*********
 GALLAERY
