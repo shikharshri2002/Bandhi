@@ -15,12 +15,12 @@ a{
 /******
 header
 ******/
-@media(max-width:768px){
+/**@media(max-width:768px){
     .header-social-icon{
         display:none;
     }
 }
-
+**/
 /*********
 Navbar
 **********/
