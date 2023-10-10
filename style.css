@@ -483,10 +483,9 @@ Activities
     }
 }
 
-.map{
-   margin-top:10px;
-  
-}
+iframe{
+    width:400px;
+    height:400px;
 
 /*********
 Contact
@@ -516,6 +515,3 @@ Contact
     margin-right:50px;
 }
  
-iframe{
-    width:30%;
-    height:400px;
