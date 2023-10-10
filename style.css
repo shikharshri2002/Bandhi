@@ -516,7 +516,6 @@ Contact
     margin-right:50px;
 }
  
-.map{
-    width:50%;
-    margin:0 auto;
-}
+iframe{
+    width:30%;
+    height:400px;
