@@ -1,2 +1,2 @@
-# Bandhi
+# Baandhi
 school website
